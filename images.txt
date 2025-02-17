@@ -15,3 +15,4 @@ unilei/aipan-netdisk-search:latest
 stilleshan/frpc:latest
 xhongc/music_tag_web:latest
 2011820123/tvbox:latest
+adguard/adguardhome
