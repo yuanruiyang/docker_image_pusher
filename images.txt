@@ -3,3 +3,14 @@ zerotier/zerotier:latest
 ghcr.io/monlor/xiaoya-alist:latest
 ghcr.io/monlor/xiaoya-metadata:latest
 ghcr.io/monlor/xiaoya-embyserver:latest
+guovern/iptv-api:latest
+haroldli/xiaoya-tvbox:latest
+hectorqin/reader
+herberthe0229/iptv-sources:latest
+hslr/sun-panel:latest
+linzeyi/hivision_idphotos:latest
+lyswhut/lx-music-sync-server:latest
+postgres:12
+unilei/aipan-netdisk-search:latest
+stilleshan/frpc:latest
+xhongc/music_tag_web:latest
