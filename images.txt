@@ -17,3 +17,5 @@ xhongc/music_tag_web:latest
 2011820123/tvbox:latest
 adguard/adguardhome:latest
 steefdebruijn/docker-roonserver:latest
+zzzshanghai/doube-itv:latest
+zmisgod/iptvchecker:latest
