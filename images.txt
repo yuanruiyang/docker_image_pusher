@@ -19,3 +19,4 @@ adguard/adguardhome:latest
 steefdebruijn/docker-roonserver:latest
 zzzshanghai/doube-itv:latest
 zmisgod/iptvchecker:latest
+youshandefeiyang/allinone:latest
