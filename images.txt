@@ -20,3 +20,4 @@ steefdebruijn/docker-roonserver:latest
 zzzshanghai/doube-itv:latest
 zmisgod/iptvchecker:latest
 youshandefeiyang/allinone:latest
+taksss/php-epg:latest
