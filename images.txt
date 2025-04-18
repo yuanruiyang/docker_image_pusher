@@ -22,3 +22,5 @@ zmisgod/iptvchecker:latest
 youshandefeiyang/allinone:latest
 taksss/php-epg:latest
 b3log/siyuan:latest
+chishin/nginx-proxy-manager-zh:latest
+vaultwarden/server:latest
