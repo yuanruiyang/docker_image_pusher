@@ -1,8 +1,5 @@
 zerotier/zerotier-synology:latest
 zerotier/zerotier:latest
-ghcr.io/monlor/xiaoya-alist:latest
-ghcr.io/monlor/xiaoya-metadata:latest
-ghcr.io/monlor/xiaoya-embyserver:latest
 guovern/iptv-api:latest
 haroldli/xiaoya-tvbox:latest
 hectorqin/reader
@@ -11,7 +8,6 @@ hslr/sun-panel:latest
 linzeyi/hivision_idphotos:latest
 lyswhut/lx-music-sync-server:latest
 postgres:12
-unilei/aipan-netdisk-search:latest
 stilleshan/frpc:latest
 xhongc/music_tag_web:latest
 2011820123/tvbox:latest
@@ -24,4 +20,7 @@ taksss/php-epg:latest
 b3log/siyuan:latest
 chishin/nginx-proxy-manager-zh:latest
 vaultwarden/server:latest
-ghcr.io/wg-easy/wg-easy
+bestzwei/libretv:latest
+hanxi/xiaomusic:latest
+ghcr.io/senshinya/moontv:latest
+jxxghp/moviepilot-v2:latest
