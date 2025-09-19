@@ -23,3 +23,4 @@ vaultwarden/server:latest
 bestzwei/libretv:latest
 hanxi/xiaomusic:latest
 jxxghp/moviepilot-v2:latest
+ghcr.io/moontechlab/lunatv:latest
