@@ -22,5 +22,4 @@ chishin/nginx-proxy-manager-zh:latest
 vaultwarden/server:latest
 bestzwei/libretv:latest
 hanxi/xiaomusic:latest
-ghcr.io/senshinya/moontv:latest
 jxxghp/moviepilot-v2:latest
