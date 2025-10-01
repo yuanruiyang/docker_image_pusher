@@ -28,3 +28,4 @@ ghcr.io/moontechlab/lunatv:latest
 11notes/kms-gui:1.0.3
 ghcr.io/katelya77/katelyatv:latest
 apache/kvrocks:latest
+jeffxinzhe/moontv:latest
