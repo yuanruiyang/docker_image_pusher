@@ -29,3 +29,6 @@ ghcr.io/moontechlab/lunatv:latest
 ghcr.io/katelya77/katelyatv:latest
 apache/kvrocks:latest
 jeffxinzhe/moontv:latest
+cloudflare/cloudflared:latest
+ghcr.io/coracoo/dockports:latest
+mysql:latest
