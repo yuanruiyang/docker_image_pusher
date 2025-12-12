@@ -32,3 +32,4 @@ jeffxinzhe/moontv:latest
 cloudflare/cloudflared:latest
 ghcr.io/coracoo/dockports:latest
 mysql:latest
+0nlylty/dockercopilot:latest
