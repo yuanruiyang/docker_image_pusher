@@ -33,3 +33,4 @@ cloudflare/cloudflared:latest
 ghcr.io/coracoo/dockports:latest
 mysql:latest
 0nlylty/dockercopilot:latest
+ghcr.io/decohererk/decotv:latest
