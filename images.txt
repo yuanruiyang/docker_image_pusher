@@ -34,3 +34,7 @@ ghcr.io/coracoo/dockports:latest
 mysql:latest
 0nlylty/dockercopilot:latest
 ghcr.io/decohererk/decotv:latest
+hanxi/xiaomusic:latest
+linuxserver/msedge:latest
+netcccyun/dnsmgr:latest
+qdnas/flatnas:latest
