@@ -23,3 +23,4 @@ ghcr.io/decohererk/decotv:latest
 linuxserver/msedge:latest
 qdnas/flatnas:latest
 mysql:latest
+ghcr.io/ednovas/dongguatv:latest
