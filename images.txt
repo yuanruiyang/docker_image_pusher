@@ -20,7 +20,6 @@ jeffxinzhe/moontv:latest
 cloudflare/cloudflared:latest
 ghcr.io/coracoo/dockports:latest
 ghcr.io/decohererk/decotv:latest
-linuxserver/msedge:latest
 qdnas/flatnas:latest
 mysql:latest
 ghcr.io/ednovas/dongguatv:latest
