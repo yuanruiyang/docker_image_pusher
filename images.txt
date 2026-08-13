@@ -23,3 +23,13 @@ ghcr.io/decohererk/decotv:latest
 qdnas/flatnas:latest
 mysql:latest
 ghcr.io/ednovas/dongguatv:latest
+ghcr.io/vectorize-io/hindsight:latest
+hslr/sun-panel:latest
+imgzcq/iconstation:latest
+linuxserver/msedge:latest
+minzgo/music-scraper:latest
+minzgo/music-toolbox:latest
+phpmyadmin:latest
+searxng/searxng:latest
+songloft/songloft:latest
+xcq0607/lxserver:latest
