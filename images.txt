@@ -1,5 +1,4 @@
 haroldli/xiaoya-tvbox:latest
-hectorqin/reader
 linzeyi/hivision_idphotos:latest
 lyswhut/lx-music-sync-server:latest
 postgres:12
