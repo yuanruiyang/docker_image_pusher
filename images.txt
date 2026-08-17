@@ -22,7 +22,6 @@ ghcr.io/coracoo/dockports:latest
 ghcr.io/decohererk/decotv:latest
 qdnas/flatnas:latest
 mysql:latest
-ghcr.io/ednovas/dongguatv:latest
 ghcr.io/vectorize-io/hindsight:latest
 hslr/sun-panel:latest
 imgzcq/iconstation:latest
