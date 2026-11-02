@@ -31,3 +31,5 @@ phpmyadmin:latest
 searxng/searxng:latest
 songloft/songloft:latest
 xcq0607/lxserver:latest
+ghcr.io/zlyon/lx-hub:latest
+akiralereal/iptv:latest
